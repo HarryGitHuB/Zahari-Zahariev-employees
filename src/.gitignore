@@ -1,9 +1,9 @@
 target/
-./.idea
-./.idea/
-.shelf
-./*.iml
-./.out
-./.out/
-./out/*.*
-./EmployeesLongestPeriod.iml
+.idea/*
+#./.idea/
+#.shelf
+#/*.iml
+#out
+#./.out/
+out/*.*
+EmployeesLongestPeriod.iml
