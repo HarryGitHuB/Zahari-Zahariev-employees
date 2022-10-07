@@ -1,5 +1,12 @@
 target/
-./.iml
-.idea/*
-./out/*
-EmployeesLongestPeriod.iml
+.idea
+.idea/
+.shelf
+/*.iml
+/*.ipr
+/*.iws
+/out
+
+/out/*.*
+
+./EmployeesLongestPeriod.iml
