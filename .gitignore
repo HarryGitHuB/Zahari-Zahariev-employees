@@ -1,13 +1,5 @@
-# Default ignored files
-/shelf/
-/.idea/workspace.xml
 *.iml
 .idea/
 out/
 .gitignore
-#./.idea/
-#.shelf
-#/*.iml
-#out
-#./.out/
-#EmployeesLongestPeriod.iml
+EmployeesLongestPeriod.iml
