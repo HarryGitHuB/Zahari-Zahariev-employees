@@ -1,9 +1,10 @@
-target/
+*.iml
 .idea/*
+#.idea/*
 #./.idea/
 #.shelf
 #/*.iml
 #out
 #./.out/
-out/*.*
-EmployeesLongestPeriod.iml
+#out/*.*
+#EmployeesLongestPeriod.iml
